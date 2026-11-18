@@ -1,0 +1,6 @@
+# Raw data and local databases are too large for the repo
+*.csv
+*.zip
+*.duckdb
+*.duckdb.wal
+.ipynb_checkpoints/
